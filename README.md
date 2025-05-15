@@ -74,7 +74,7 @@ kenya-fishing-guide/
 ├── assets/               # Images, fish icons, videos
 ├── css/                  # Styling files
 ├── js/                   # JS scripts (weather, maps, UI)
-├── php/                  # Backend PHP scripts
+├             
 ├── uploads/              # User-uploaded media
 ├── index.html            # Landing page
 ├── login.html            # User login
@@ -82,13 +82,11 @@ kenya-fishing-guide/
 ├── config.php            # DB credentials
 └── README.md
 📈 Future Enhancements
-✅ Add language translation API for full site translation.
 
 ✅ Expand user profiles to show activity history and stats.
 
 🔄 AI-powered fish recognition from uploaded photos.
 
-🔄 Offline access via a PWA (Progressive Web App).
 
 🔄 Admin dashboard to manage uploaded content and species data.
 
