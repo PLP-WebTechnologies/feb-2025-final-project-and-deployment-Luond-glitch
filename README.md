@@ -44,7 +44,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/kenya-fishing-guide.git
+git clone https://github.com/Luond-glitch/kenya-fishing.git
 cd kenya-fishing-guide
 Database Setup
 
